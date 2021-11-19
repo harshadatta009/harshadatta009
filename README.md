@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsha_datta_" target="blank"><img src="https://img.shields.io/twitter/follow/harsha_datta_?logo=twitter&style=for-the-badge" alt="harsha_datta_" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile-App & Web Development 📱 | Cloud ☁️**
+- 🔭 I’m currently working on **Mobile-App & Web Development 📱 **
 
 - 🌱 I’m currently learning **Full-Stack ⚡ | Open-Source 🔥**
 
