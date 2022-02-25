@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/harsha_datta_" target="blank"><img src="https://img.shields.io/twitter/follow/harsha_datta_?logo=twitter&style=for-the-badge" alt="harsha_datta_" /></a> </p>
 
-- 🔭 I’m currently working on ** Web Development**
-
-- 🌱 I’m currently learning **Full-Stack ⚡ | Open-Source 🔥**
+- 🔭 I’m currently working on ** bug huting*
 
 - 💬 Ask me about **Anything!, I'm happy to help ✌️**
 
 - 📫 How to reach me **harshadatta99@gmail.com**
 
-- ⚡ Fun fact **Programming is thinking and not typing**
+- ⚡ I look like a geeky hacker, but I don't know anything about computers. -Justin Long
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harsha_datta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsha_datta_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshadatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshadatta" height="30" width="40" /></a>
-<a href="https://instagram.com/__born_to_code__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__born_to_code__" height="30" width="40" /></a>
+<a href="https://instagram.com/_born_to_code_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__born_to_code__" height="30" width="40" /></a>
 <a href="https://discord.gg/HAR$HA | DATTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HAR$HA | DATTA" height="30" width="40" /></a>
 </p>
 
