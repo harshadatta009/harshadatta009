@@ -1,3 +1,5 @@
+![giphy (1)](https://user-images.githubusercontent.com/56971266/173173722-65c2b4d1-b4b2-4c14-8eb8-b0aea9340ce0.gif)
+
 <h1 align="center">Hi 👋, I'm Harsha Datta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadatta009&label=Profile%20views&color=0e75b6&style=flat" alt="harshadatta009" /> </p>
 
