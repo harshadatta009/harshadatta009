@@ -1,45 +1,64 @@
-# 👋 Hi there, I'm Harsha Datta
+# 👋 Hi, I'm Harsha Datta
 
-🎯 **Full Stack Developer | Software Engineer**
+🎯 **Backend-leaning Full-Stack Engineer | Software Engineer**
 
-I'm a results-driven full stack developer with experience in building and maintaining robust web applications in a professional setting. I work primarily with **Angular**, **React**, **TypeScript**, **Node.js**, and various backend technologies to deliver efficient, scalable solutions.
+I’m a software engineer with nearly 3 years of experience building and operating **production systems** across agriculture and financial domains. I work primarily on **backend systems**—designing APIs, data models, and workflows—while collaborating closely with frontend teams to deliver reliable, scalable products.
 
-In my day-to-day work, I focus on writing clean, maintainable code, delivering on-time, and collaborating effectively with cross-functional teams in fast-paced, agile environments.
+My day-to-day work involves translating real business requirements into clean system designs, handling asynchronous and real-time data, and owning features end to end—from design and implementation to deployment and production fixes.
+
+I value clarity over cleverness, systems that hold up under load, and code that’s easy to reason about six months later.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express, REST APIs, PostgreSQL, MongoDB
-- **Dev Tools:** Git, Docker, Jenkins, Postman, VS Code
-- **Practices:** Agile/Scrum, CI/CD, Code Reviews, Performance Optimization
+**Backend & Systems**
+- Node.js, Express
+- REST APIs, async processing
+- Authentication & Authorization (JWT, RBAC)
+
+**Streaming & Data**
+- Apache Kafka (event ingestion, decoupled pipelines)
+- Apache Spark (batch & stream processing concepts)
+
+**Databases**
+- PostgreSQL (schema design, query optimization)
+- MongoDB
+
+**Frontend (working knowledge)**
+- React, Next.js, TypeScript
+
+**Tooling & Infra**
+- Docker, Git, CI/CD (GitHub Actions, Jenkins)
+- Jest (unit & integration testing)
 
 ---
 
 ## 🛠 What I Do (Professionally)
 
-- Build and maintain production-grade web applications
-- Collaborate with backend, QA, and DevOps teams to ship features
-- Ensure performance, accessibility, and reliability across platforms
-- Prioritize stability, code quality, and timely delivery over flashiness
+- Design and build backend systems that model **real workflows and business logic**
+- Own APIs, data models, and backend services end to end
+- Build and operate **event-driven pipelines** for high-volume, real-time data
+- Collaborate with frontend engineers on clear API contracts
+- Debug production issues and improve reliability, not just ship features
 
 ---
 
 ## 🧠 What I Value
 
-- Clean, scalable code and well-organized architecture
-- Team collaboration and professional growth
-- Practical problem-solving and delivering business value
-- Staying current with useful tools—not chasing every new trend
+- Systems that are simple, explicit, and scalable
+- Clear ownership and accountability
+- Thoughtful trade-offs over over-engineering
+- Learning tools deeply instead of chasing every new framework
+- Writing code that other engineers can understand and trust
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harshadatta009/)
-- 🐙 I use GitHub mostly for work-related code and knowledge sharing.
+- 🐙 GitHub is where I share experiments, learning notes, and selected work
 
 ---
 
-> “Consistency beats hype. I build what matters, when it matters.”
+> *“Good systems age well. That’s the goal.”*
