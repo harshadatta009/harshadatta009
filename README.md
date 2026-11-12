@@ -1,60 +1,74 @@
+
 # 👋 Hi, I'm Harsha Datta
 
-🎯 **Product Engineer | DevOps Focus | Backend Systems**
+🎯 **AI Engineer | Generative AI & Agentic AI | Backend and Cloud Systems**
 
-I build and operate systems that are meant to run in production, not just pass tests.
+I build backend systems and AI-powered applications designed for real-world use.
 
-I have 3+ years of experience working on real-world platforms across agriculture and financial domains. My work sits at the intersection of **backend engineering and DevOps** where systems need to be scalable, observable, and reliable under load.
+I have 3+ years of experience across software engineering, backend development, cloud infrastructure and production systems. My recent focus is on **Generative AI, RAG applications and agentic workflows**, while continuing to apply my experience in API development, distributed systems, DevOps and deployment.
 
-I’ve worked on **real-time data pipelines (MQTT + Kafka)**, production deployments on **Kubernetes**, and infrastructure automation using **Terraform**. I spend a lot of time dealing with things that break in production and making sure they don’t break the same way twice.
+I've worked with **LangChain and LangGraph** to build retrieval-augmented and multi-agent workflows, integrated LLM APIs from **OpenAI and Anthropic**, and explored managed model platforms such as **AWS Bedrock and Azure AI Studio**. My broader engineering experience includes real-time data pipelines using **Kafka and MQTT**, Kubernetes deployments and infrastructure automation with Terraform.
 
-I care about systems that are predictable, easy to debug, and built with clear trade-offs.
+I care about building AI systems that are useful, secure, observable and maintainable, not just demos that work once.
 
 ---
 
 ## 🚀 Tech Stack
 
-**DevOps & Platform**
+**Generative AI & LLMs**
 
-* Kubernetes, Docker, Helm
-* AWS (EC2, S3, IAM, VPC, EKS, RDS)
-* Terraform, CI/CD (Jenkins, GitHub Actions), ArgoCD
+* OpenAI, Anthropic, AWS Bedrock, Azure AI Studio
+* RAG, embeddings, semantic search and vector databases
+* Prompt engineering, structured outputs and LLM integration
+* Token usage tracking, caching and model routing
+
+**Agentic AI**
+
+* LangChain, LangGraph
+* Tool/function calling and multi-agent orchestration
+* Stateful workflows, routing and human-in-the-loop patterns
+* AI guardrails and workflow observability
+
+**Backend & APIs**
+
+* Python, FastAPI
+* Node.js, Express
+* REST APIs, asynchronous workflows and microservices
+* Authentication and authorization (JWT, RBAC, OAuth2)
+
+**Cloud, DevOps & Platform**
+
+* AWS, Azure
+* Docker, Kubernetes, Helm
+* Terraform, Jenkins, GitHub Actions and Argo CD
+* CI/CD and infrastructure automation
 
 **Observability**
 
 * Prometheus, Grafana
-* Logging, alerting, basic SLI/SLO thinking
+* Logging, monitoring, alerting and troubleshooting
 
-**Backend & Systems**
-
-* Node.js, Express
-* REST APIs, async workflows
-* Auth (JWT, RBAC)
-
-**Streaming & Data**
+**Streaming, Data & Databases**
 
 * Apache Kafka, MQTT
-* Event-driven architecture
+* PostgreSQL, MongoDB, Redis, InfluxDB
+* Event-driven architecture and real-time data processing
 
-**Databases**
+**Frontend**
 
-* PostgreSQL (query tuning, schema design)
-* MongoDB, InfluxDB
-
-**Frontend (working knowledge)**
-
-* React, TypeScript
+* React, Next.js, TypeScript
 
 ---
 
-## 🛠 What I Actually Do
+## 🛠 What I Work On
 
-* Build and operate **production systems on Kubernetes**
-* Design and maintain **CI/CD pipelines** for reliable deployments
-* Automate infrastructure using **Terraform**
-* Work with **event-driven systems** handling real-time data
-* Set up **monitoring and alerting** to catch issues early
-* Debug production issues and improve system reliability
+* Build **RAG-based applications** with document ingestion, embeddings and retrieval
+* Develop **agentic workflows** with LangGraph, tools and controlled execution
+* Integrate LLM providers and model endpoints into backend services
+* Build and maintain APIs using Python, FastAPI and Node.js
+* Deploy and operate services using Docker and Kubernetes
+* Automate infrastructure and delivery pipelines with Terraform and CI/CD
+* Improve system reliability through monitoring, logging and production debugging
 
 ---
 
@@ -63,24 +77,25 @@ I care about systems that are predictable, easy to debug, and built with clear t
 * Reduced infrastructure provisioning time by **60%** using Terraform
 * Improved system performance by **30%** through pipeline and query optimization
 * Reduced MTTR by **40%** with better monitoring and alerting
-* Worked on systems handling real-time IoT data at scale
+* Worked on real-time IoT data pipelines using Kafka and MQTT
 
 ---
 
 ## 🧠 How I Think
 
-* Simple systems scale better than clever ones
-* Observability is not optional
-* Automation > manual fixes
-* Fix the root cause, not just the symptom
+* Build for real users and real operating conditions
+* Prefer clear workflows and measurable trade-offs
+* Treat security and observability as part of the design
+* Automate repeatable work
+* Fix root causes, not just symptoms
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/harshadatta009/)
-* 🐙 GitHub is where I share experiments and practical learnings
+* 🐙 [GitHub](https://github.com/harshadatta009)
 
 ---
 
-> Good systems don’t just work. They keep working.
+> Good engineering is not just about making systems work. It's about making them dependable.
