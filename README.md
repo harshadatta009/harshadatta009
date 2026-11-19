@@ -93,7 +93,7 @@ I care about building AI systems that are useful, secure, observable and maintai
 
 ## 📫 Let's Connect
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/harshadatta009/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/harshadatta)
 * 🐙 [GitHub](https://github.com/harshadatta009)
 
 ---
