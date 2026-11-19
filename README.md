@@ -5,7 +5,7 @@
 
 I build backend systems and AI-powered applications designed for real-world use.
 
-I have 3+ years of experience across software engineering, backend development, cloud infrastructure and production systems. My recent focus is on **Generative AI, RAG applications and agentic workflows**, while continuing to apply my experience in API development, distributed systems, DevOps and deployment.
+I have 4 years of experience across software engineering, backend development, cloud infrastructure and production systems. My recent focus is on **Generative AI, RAG applications and agentic workflows**, while continuing to apply my experience in API development, distributed systems, DevOps and deployment.
 
 I've worked with **LangChain and LangGraph** to build retrieval-augmented and multi-agent workflows, integrated LLM APIs from **OpenAI and Anthropic**, and explored managed model platforms such as **AWS Bedrock and Azure AI Studio**. My broader engineering experience includes real-time data pipelines using **Kafka and MQTT**, Kubernetes deployments and infrastructure automation with Terraform.
 
